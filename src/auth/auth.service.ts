@@ -13,7 +13,7 @@ export class AuthService implements OnApplicationBootstrap {
 
   async onApplicationBootstrap() {
     const token = await this.getAuthToken();
-    this.logger.log(`Auth token = ${token}`);
+    this.logger.log(`Auth Token = ${token}`);
   }
 
   async getAuthToken() {
