@@ -1,5 +1,7 @@
 # Evcard Analytics Nest
 
+DEPRECATED
+
 ## Description
 
 Evcard Analytics NestJS Server
